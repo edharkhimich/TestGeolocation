@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestGeoLocation</string>
+    <string name="hello_world">Hello World</string>
+    <string name="service_not_available">Service not available</string>
+    <string name="invalid_lat_long_used">Invalid Latid used</string>
+    <string name="no_address_found">No address found</string>
+    <string name="address_found">Address found</string>
+    <string name="no_geocoder_available">No Geocoder Available</string>
+</resources>
